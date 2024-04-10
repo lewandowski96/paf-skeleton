@@ -8,7 +8,7 @@ fitness tips.<br></br>
 
 ## Team Members
 
-Dinindu</br>
-Kawya</br>
-Rasangi</br>
-Sanjeewa
+Nayanannanda K.S<br>
+Kongahawatte D.D<br>
+Nanayakkara A.G.D.R.C<br>
+Kawya R.M.S<br>
