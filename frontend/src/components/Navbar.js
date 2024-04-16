@@ -3,11 +3,11 @@ import {
   BiSearchAlt2,
   BiSolidBell,
   BiSolidBox,
-  BiSolidCompass,
   BiSolidHome,
   BiSolidLocationPlus,
-  BiSolidMessageAltDetail,
+  BiSolidMessageRoundedDetail,
 } from "react-icons/bi";
+import { AiFillAlert } from "react-icons/ai";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 import { getUser } from "../store/actions/user.action";
@@ -51,11 +51,13 @@ const Navbar = () => {
             <div className="home">
               <BiSolidHome className="icon" />
             </div>
-            <div className="compass">
-              <BiSolidCompass className="icon" />
+            <div className="recipe">
+              <Link to="/recipe">
+              <AiFillAlert  className="icon" />
+              </Link>
             </div>
             <div className="message">
-              <BiSolidMessageAltDetail className="icon" />
+              <BiSolidMessageRoundedDetail className="icon" />
             </div>
             <div className="location">
               <BiSolidLocationPlus className="icon" />

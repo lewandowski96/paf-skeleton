@@ -6,7 +6,7 @@ container {
 }
 .logo {
   text-align: center;
-  color: #27374d;
+  color: #08101c;
   align-items: center;
   display: flex;
   gap: 5px;
@@ -45,7 +45,7 @@ container {
   padding: 5px;
 }
 .search-box .icon1 {
-  color: #969393;
+  color: #090647;
   font-size: 50px;
   cursor: pointer;
   transition: 0.5s ease-in-out;
@@ -54,7 +54,7 @@ container {
   background: #dde6ed;
   padding: 10px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -64,17 +64,17 @@ container {
   background: #dde6ed;
   padding: 12px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.compass {
+.recipe {
   background: #dde6ed;
   padding: 12px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,7 +84,7 @@ container {
   background: #dde6ed;
   padding: 12px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -94,7 +94,7 @@ container {
   background: #dde6ed;
   padding: 12px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -104,7 +104,7 @@ container {
   background: #dde6ed;
   padding: 12px;
   border-radius: 10px;
-  color: #969393;
+  color: #090647;
   display: flex;
   align-items: center;
   justify-content: center;

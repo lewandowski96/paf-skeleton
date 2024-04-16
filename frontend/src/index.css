@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  background: #9bb0c1;
+  background: linear-gradient(179.7deg, rgb(197, 214, 227) 2.9%, rgb(144, 175, 202) 97.1%);
 }
 header .container {
   max-width: 1400px;
